@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @manishdusa
-- 👀 I’m interested in Appdev, flutter, data science, ML, AI, UI/UX etc.
+- 👀 I’m interested in AppDev(flutter), data science, ML, AI, UI/UX etc.
 -  🌱 I’m currently pursuing Bachelors in engineering in Artificial Intelligence and Data Science.
 - 💞️ I’m looking to collaborate on projects related to my interests above.
 - 📫 you can reach me on instagram, linkedin and twitter @manish_dusa
